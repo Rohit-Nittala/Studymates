@@ -1,0 +1,23 @@
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Secret key
+secret_key.txt
+
+# Database file
+db.sqlite3
+
+# Log files
+*.log
+
+# Environment-specific files
+.env
+/.env*
+
+# Static and media files (in case you're using a different storage backend)
+/static/
+/media/
+
+# Virtual environment
+venv/
